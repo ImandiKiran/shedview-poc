@@ -1,0 +1,16 @@
+export const WallColors = [
+	"#F5F7F2",
+	"#D3D1CB",
+	"#B4B0AA",
+	"#A29E98",
+	"#665755",
+	"#71363D",
+	"#CCC5B8",
+	"#ACA393",
+	"#524A44",
+	"#AD9A7F",
+	"#CFC4AB",
+	"#F2EFE0",
+	"#F2E5C8",
+	"#E2DCC6",
+];

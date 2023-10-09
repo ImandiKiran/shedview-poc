@@ -18,10 +18,32 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
 }
+
+.header {
+  /* background-color: #3e8441; */
+  color: #ffffff;
+}
+
+.btn {
+  text-transform: none;
+}
+
+.bgColor {
+  background-color: #3e8441;
+
+}
+
+.menuColor {
+  background-color: #DFDFDF;
+}
+
+.menuTextColor {
+  color: #727E80;
+
+}
+
+.ReactCollapse--collapse {
+  transition: height 500ms;
+}
+
